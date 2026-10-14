@@ -1,0 +1,52 @@
+Part 2 — Municipal Services Application for South Africa (Collaboration) (Marks: 100)
+Learning Units: LU1 – LU4
+
+Introduction:
+
+In Part 2, you will continue developing the Municipal Services Application for South Africa. The focus is on advanced data structures and algorithms, including stacks, queues, priority queues, hash tables, dictionaries, sorted dictionaries, sets, and an additional recommendation feature based on user searches.
+
+Scenario:
+
+The Municipal Services Application aims to be a comprehensive platform, integrating various features for citizens to access local events and announcements efficiently.
+
+Task 1: Implementation (100 Marks)
+
+2.1. Develop a C# application:
+
+a. Main Menu (Form) (30 Marks)
+- Implement a Windows Form with an organised menu presenting the following options:
+- Report Issues (implemented in Part 1).
+- Local Events and Announcements (to be implemented in this part).
+- Service Request Status (to be implemented in Task 3).
+
+b. Local Events and Announcements Page (Windows Form) (70 Marks)
+- Upon selecting "Local Events and Announcements," create a Windows Form with the following features:
+- Display upcoming local events and announcements in an aesthetically pleasing manner.
+- Implement a search functionality allowing users to efficiently find events based on categories and dates.
+- Utilise advanced data structures, such as sorted dictionaries, to optimise event organisation.
+
+Technical Requirements for Local Events and Announcements Page (40 Marks)
+Mark allocation breakdown:
+
+Stacks, Queues, Priority Queues (15 Marks):
+• Implement stacks, queues, or priority queues as needed to manage event-related data structures effectively.
+
+Hash Tables, Dictionaries, Sorted Dictionaries (15 Marks):
+• Utilise hash tables, dictionaries, or sorted dictionaries for organising and retrieving event information.
+
+Sets (10 Marks):
+• Incorporate sets to handle unique categories or dates efficiently.
+
+Additional Recommendation Feature (30 Marks):
+Implement a recommendation feature based on user searches:
+• Analyse user search patterns and preferences.
+• Use an appropriate algorithm or data structure to suggest related or recommended events.
+• Present recommendations in a user-friendly manner within the application.
+
+Note: If the code does not compile and run, no marks will be awarded for any application functionality.
+
+Submit the following items for this part:
+1. Source code for the application.
+2. The readme file with instructions for how to compile, run, and use the software.
+
+Important! You , keep a copy of your code in a safe place
